@@ -7,6 +7,7 @@ body {
 
 p {
   line-height: 2;
+  color: #7e7474
 }
 
 hr {
@@ -158,4 +159,13 @@ h3 {
 }
 .college-link:hover{
   color: white;
+}
+
+.my-skill-rep{
+  color:#94b5c0;
+  text-decoration: none;
+}
+
+.my-skill-rep:hover{
+  color: #435560;
 }
