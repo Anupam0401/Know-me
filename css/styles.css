@@ -63,13 +63,13 @@ h3 {
   text-align: left;
 }
 
-.skill1-img {
+.skill-left-img {
   width: 25%;
   float: left;
   margin-right: 30px;
 }
 
-.skill2-img {
+.skill-right-img {
   width: 25%;
   float: right;
   margin-left: 30px;
